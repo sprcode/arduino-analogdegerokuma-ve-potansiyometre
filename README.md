@@ -1,5 +1,7 @@
 # Analog değer okuma ve potansiyometre kullanımı 
 
+Bilgilendirmeler kod açıklamaları için  https://sprcode.com/analog-deger-okuma-ve-potansiyometre-kullanimi/282/
+
 <h2>Malzeme Listesi</h2>
   <ul>
     <li>Arduino Uno</li>
